@@ -221,6 +221,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[QQCode](https://github.com/qnguyen3/qqcode)** `⭐ 53` — Lightweight CLI coding agent in Rust focused on speed, determinism, and developer control; supports skills.
 
+- **[Synaps](https://github.com/HaseebKhalid1507/SynapsCLI)** `⭐ 51` — Terminal coding agent runtime in Rust with a ratatui TUI, parallel subagents, MCP client, and plugins in any language; works with Claude, OpenAI, Gemini, any OpenAI-compatible endpoint, or local models via Ollama. Apache-2.0.
+
 - **[Zap](https://github.com/zap-coding-agent/zap-coding-agent)** `⭐ 36` — Skill-first Rust TUI coding agent that injects only the context your task needs — no system prompt bloat. Single binary, no runtime. Supports Claude, Gemini, OpenAI, and local models via LM Studio; code-indexed via SQLite for fast symbol lookup; MCP support. MIT.
 
 - **[Nausicaa](https://github.com/jackispm/nausicaa-harness)** `⭐ 33` — TypeScript CLI/runtime for general-purpose agent tasks with addressable Lanes, an optional Teto observer lane, durable Run ledgers, daemon/worker lifecycle, and cross-Run A2A. npm `nausicaa-harness`, MIT.
